@@ -1,0 +1,1 @@
+# Minimum-Average-of-Smallest-and-Largest-Elements
